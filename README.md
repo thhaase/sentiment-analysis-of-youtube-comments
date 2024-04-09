@@ -125,6 +125,7 @@ After training we tried to predict the sentiment of unseen youtube comments with
 
 After preprocessing:
 - I cannot really see the lemmatization part of the processing in the normalized data and the stemming was overdone so did not use it, I think I am not able to understand it properly.
+
 | overall | verified |
 | --------| ---------|
 | postive |really happy got evangelised spoiler alert==happy ending liked since started bit worrisome yeah great story missionary movie really short half hour still great|
